@@ -1,21 +1,30 @@
 # hack4lx_IPTV
+
 Collection of 8000+ publicly available IPTV channels from all over the world.  Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks.
 
-[![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
+**********************************************************
 
-Educational Phishing Tool 
 
-✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+Usage
 
-Any misuse
-It will be up to you
+To watch IPTV you just need to paste this link https://iptv-org.github.io/iptv/index.m3u to any player with support M3U-playlists.
 
-Chanel Youtob:  https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw/videos
+VLC Network Panel
 
-Tutorial hack4lx-Phishing :  https://www.youtube.com/watch?v=-fzjzYkMKBk&feature=youtu.be
+Also you can instead use one of these playlists:
+
+index.country.m3u (grouped by country)
+index.category.m3u (grouped by category)
+iptv/index.language.m3u (grouped by language)
 
 
 **********************************************************
+
+
+[![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
+
+✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+
 
 ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
 
