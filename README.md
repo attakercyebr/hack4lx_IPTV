@@ -5,22 +5,6 @@ Collection of 8000+ publicly available IPTV channels from all over the world.  I
 **********************************************************
 
 
-Usage
-
-To watch IPTV you just need to paste this link https://iptv-org.github.io/iptv/index.m3u to any player with support M3U-playlists.
-
-VLC Network Panel
-
-Also you can instead use one of these playlists:
-
-index.country.m3u (grouped by country)
-index.category.m3u (grouped by category)
-iptv/index.language.m3u (grouped by language)
-
-
-**********************************************************
-
-
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
 
 ✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
